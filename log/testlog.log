@@ -1,0 +1,14 @@
+2020-09-18 14:38:35 INFO  TestNGFramework:23 - exe started
+  2020-09-18 14:38:35 WARN  TestNGFramework:24 - execution get error
+  2020-09-18 14:38:35 ERROR TestNGFramework:25 - erroe detected
+  2020-09-18 14:49:28 INFO  TestNGFramework:28 - load browser
+  2020-09-18 14:49:53 INFO  TestNGFramework:33 - browser load successfully
+  2020-09-18 14:49:53 WARN  TestNGFramework:40 - current url og browser print on console
+  2020-09-18 14:49:53 INFO  TestNGFramework:50 - title of webpage print on console
+  2020-09-18 14:49:53 FATAL TestNGFramework:57 - string hashcode of current window printed on console
+  2020-09-18 15:03:51 INFO  TestNGFramework:29 - load browser
+  2020-09-18 15:04:26 INFO  TestNGFramework:34 - browser load successfully
+  2020-09-18 15:04:26 WARN  TestNGFramework:41 - current url og browser print on console
+  2020-09-18 15:04:26 INFO  TestNGFramework:51 - title of webpage print on console
+  2020-09-18 15:04:26 FATAL TestNGFramework:58 - string hashcode of current window printed on console
+  
